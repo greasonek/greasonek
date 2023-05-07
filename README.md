@@ -21,8 +21,11 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/greasonek/" target="_blank" rel="noopener noreferrer"><img height="58" src="icons8-linkedin-48.png"></a>&nbsp;&nbsp;
 </p>
 
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greasonek&layout=compact&theme=midnight-purple)](https://github.com/greasonek/github-readme-stats)
-  
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greasonek&theme=tokyonight)](https://github.com/greasonek/github-readme-stats)
+
 ### 🧩 Professional Competencies
 
 - Growth Mindset
