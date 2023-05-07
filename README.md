@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **greasonek/greasonek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![my header](GREASONEK.png)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/greasonek/" target="_blank" rel="noopener noreferrer"><img height="38" src="icons8-linkedin-48.png"></a>&nbsp;&nbsp;
+</p>
+
